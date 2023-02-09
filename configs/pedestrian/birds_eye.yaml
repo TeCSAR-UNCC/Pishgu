@@ -1,0 +1,26 @@
+input_data:
+  dataset: ['eth', 'hotel', 'univ', 'zara1', 'zara2']
+  subject: 'pedestrian' 
+  train_folder: 'train'
+  val_folder: 'val'
+  test_folder: 'test'
+  observed_steps : 8
+  prtediction_step : 12
+  points_per_position : 2
+
+training:
+  save_model : False
+  train : False
+  validation_interval : 1
+  save_folder : 'test_org_domain'
+  learning_rate : 0.01
+  milestones : [10,30,45]
+  epoches : 10
+  device : 'cuda:0'
+  weight_decay : 0.0005
+  model_dir : '/home/galinezh/carpe_copy/CARPe_modified/CARPe_modified/models/Org_Domain_CBAM_Org_Predictor/'
+  batch_size : 64
+
+  
+
+
