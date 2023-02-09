@@ -1,5 +1,9 @@
 # Pishgu: : Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems
 
+[![arXiv](https://img.shields.io/badge/arXiv-<2210.08057>-<COLOR>.svg)](https://arxiv.org/abs/2210.08057)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pishgu-universal-path-prediction-architecture/trajectory-prediction-on-actev)](https://paperswithcode.com/sota/trajectory-prediction-on-actev?p=pishgu-universal-path-prediction-architecture)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pishgu-universal-path-prediction-architecture/trajectory-prediction-on-ngsim)](https://paperswithcode.com/sota/trajectory-prediction-on-ngsim?p=pishgu-universal-path-prediction-architecture)
+
 This repo contains the official Pytorch implementation of paper ["Pishgu: : Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems"](https://arxiv.org/pdf/2210.08057.pdf) accepted to be published and presented at [IEEE/ACM ICCPS 2023](https://iccps.acm.org/2023/). We present a universal architecture for trajectory prediction for pedestrians and vehicles from various points of view specifically designed for CPS applications. Pishgu is lightweight and captures the interdependencies between subjects using Graph Isomorphism Network (GIN). On top of that, by utilizing attentive convolutional layers, Pishgu is able to focus on more informative features and define a novel approach for trajectory prediction. 
 
 ## Domains and Datasets
