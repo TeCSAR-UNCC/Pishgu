@@ -1,4 +1,4 @@
-# Pishgu: : Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems
+# Pishgu: Universal Path Prediction Network Architecture for Real-time Cyber-physical Edge Systems
 
 [![arXiv](https://img.shields.io/badge/arXiv-<2210.08057>-<COLOR>.svg)](https://arxiv.org/abs/2210.08057)
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/pishgu-universal-path-prediction-architecture/trajectory-prediction-on-actev)](https://paperswithcode.com/sota/trajectory-prediction-on-actev?p=pishgu-universal-path-prediction-architecture)
