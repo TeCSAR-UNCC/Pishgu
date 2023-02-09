@@ -38,5 +38,10 @@ If you found Pishgu helpful and used it in your research, please use the folllow
   journal={arXiv preprint arXiv:2210.08057},
   year={2022}
 }
-
 ```
+## Refrences
+
+This repo is based on these awesome works:
+- [CARPe_Postum] (https://github.com/TeCSAR-UNCC/CARPe_Posterum)
+- [Social GAN] (https://github.com/agrimgupta92/sgan)
+
