@@ -1,5 +1,5 @@
 input_data:
-  dataset : ['VIRAT_ActEV_only_people']
+  dataset : ['VIRAT_ActEV']
   subject: 'pedestrian'
   train_folder: 'train'
   val_folder: 'val'
