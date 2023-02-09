@@ -17,7 +17,7 @@ pip install -r requirments.txt
 ```
 
 ## Training and Testing
-Each domain has a corresponding Confif file in configs folder. For training and saving the model in the Training section just set the "save_model" and "train" fields to True and use the following command:
+Each domain has a corresponding Config file in configs folder. For training and saving the model in the Training section just set the "save_model" and "train" fields to True and use the following command:
 ```
 python3 main.py --config {path_to_the_confif_file}
 ```
