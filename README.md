@@ -15,7 +15,7 @@ This repo contains the official Pytorch implementation of paper ["Pishgu: : Univ
 You can download the preprocessed data from this [link](https://drive.google.com/file/d/1BnhGtGgiafV6LP9rnIJA6b5Lp4GxmPeB/view?usp=share_link). 
 
 ## Installation 
-```
+```bash
 git clone https://github.com/TeCSAR-UNCC/Pishgu.git
 cd Pishgu
 pip install -r requirments.txt
@@ -23,12 +23,12 @@ pip install -r requirments.txt
 
 ## Training and Testing
 Each domain has a corresponding Config file in configs folder. For training and saving the model in the Training section just set the "save_model" and "train" fields to True and use the following command:
-```
+```bash
 python3 main.py --config {path_to_the_config_file}
 ```
 
 For testing, just give the path to desired model in the config file and set "save_model" and "train" fields to False and use the same command:
-```
+```bash
 python3 main.py --config {path_to_the_config_file}
 ```
 
