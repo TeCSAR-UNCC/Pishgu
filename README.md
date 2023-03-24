@@ -35,7 +35,7 @@ python3 main.py --config {path_to_the_config_file}
 We also provide the trained weights in all domains in the the "model" folder. 
 
 ## Citation
-If you found Pishgu helpful and used it in your research, please use the folllowing BibTeX entry.
+If you found Pishgu helpful and used it in your research, please use the folllowing BibTeX entry:
 ```
 @article{noghre2022pishgu,
   title={Pishgu: Universal Path Prediction Architecture through Graph Isomorphism and Attentive Convolution},
